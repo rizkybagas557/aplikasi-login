@@ -1,5 +1,7 @@
 # aplikasi-login
 sebuah aplikasi dengan fitur login
+==
+*miring*
 
 Alur Fitur Login:
 1. Memasukkan nama, email, dan password
